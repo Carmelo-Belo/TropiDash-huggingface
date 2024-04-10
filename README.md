@@ -41,6 +41,3 @@ This repository contains an example of deploying Voila dashboards from GitHub to
 9. On every commit to the `main` branch, the repository will is synced and deployed to the Hugging Face Spaces.
 
 10. To get direct access to your deployment, go to `Embed this Space` and copy the direct URL of the Space.
-
-![hf1](https://github.com/voila-dashboards/voila-huggingface/assets/4451292/7af28013-617b-46c5-a07d-16e885a5581f)
-![hf-2](https://github.com/voila-dashboards/voila-huggingface/assets/4451292/5d685fe9-45c8-4f77-9f0c-da6686dde09f)
